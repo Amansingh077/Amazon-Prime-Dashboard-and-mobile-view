@@ -38,6 +38,24 @@ Regional Analysis: Compare subscription rates across different countries and reg
 User Behavior: Explore factors influencing subscription decisions.
 Trend Identification: Spot key patterns and anomalies in the data.
 
+## 🛠️ Installation & Usage
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/Amansingh077/Amazon-Prime-Dashboard-and-mobile-view.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd Amazon-Prime-Dashboard-and-mobile-view
+Open the Power BI Dashboard:
+
+Download the .pbix file from the repository.
+Open the file with Power BI Desktop to explore the interactive dashboard.
+
 
 ## 🔍 Key Insights
 Growth Trends: Identified periods of significant growth in subscriptions.
