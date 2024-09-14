@@ -21,11 +21,22 @@ Order & Delivery Metrics: Real-time data on Prime orders, delivery speeds, and r
 Prime Membership Insights: New subscriptions, renewal rates, and churn analysis.
 The dashboard is highly customizable and interactive, giving you the power to modify and personalize it based on the metrics that matter most to you!
 
-## 🌟 Features
-Real-time Amazon Prime Data 🕒: Instantly track user activity, orders, or streaming statistics in real-time.
-Customizable Widgets 🧩: Tailor your dashboard by adding/removing widgets that track specific metrics.
-Interactive Visualizations 📈: Beautiful, responsive charts and graphs that provide deeper insights into Amazon Prime performance.
-Secure User Authentication 🔐: Login with your Amazon account to securely access your personal data and analytics.
+## 💻 Tech Stack
+Power BI: Data visualization and dashboard creation.
+Data Preparation: Tools for data cleaning and preprocessing.
+
+
+## 📊 Data Source
+The data used in this project is sourced from reliable industry reports and databases tracking Amazon Prime  metrics globally. The dataset includes information on subscriber counts, regional distribution, and temporal trends.
+
+
+## 🚀 Dashboard Features
+The Power BI dashboard includes several interactive elements:
+
+Subscription Trends: Analyze changes in Amazon Prime over time.
+Regional Analysis: Compare subscription rates across different countries and regions.
+User Behavior: Explore factors influencing subscription decisions.
+Trend Identification: Spot key patterns and anomalies in the data.
 
 
 ## 🔍 Key Insights
