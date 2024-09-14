@@ -1,9 +1,16 @@
 # 🚀 Amazon Prime Power Dashboard
 Welcome to the Amazon Prime Power Dashboard project! 🎉 This dashboard harnesses the incredible power of Amazon Prime by analyzing data streams and providing real-time, visually compelling insights into user activity, streaming patterns, orders, and more. Whether you're looking to understand Prime Video trends or analyze Prime membership metrics, this dashboard has you covered! 📊
 
-## 
-### Introduction
-### Features
+## 📚 Table of Contents
+#### Introduction
+#### Tech Stack
+#### Data Source
+#### Dashboard Features
+#### Installation & Usage
+#### Key Insights
+#### Contributing
+#### License
+#### Acknowledgements
 
 
 ## 📝 Introduction
